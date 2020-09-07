@@ -24,4 +24,6 @@
 ### Refrences  
 * [PyimageSearch](https://www.pyimagesearch.com/start-here/)  
 * Understanding the basics of object tracking & various tracking techinques [here](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
-* [Video source](https://twitter.com/ManUtd/status/1278378584382541826)
+* [Video source](https://twitter.com/ManUtd/status/1278378584382541826)  
+
+[![Image](https://img.shields.io/badge/Developer-Pranjal%20Mishra-blue)](https://github.com/Pranjalmishra30)
